@@ -1,0 +1,1 @@
+This repository contains a Julia function with and without error handling for non-numeric input. The original function fails if a non-numeric value is passed as an argument. The improved version includes error handling using a try-catch block to gracefully handle such inputs.
